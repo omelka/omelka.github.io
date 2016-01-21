@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katarzyna Kowalak</title>
-    <link>http://omelka.github.io/</link>
+    <link>http://www.katarzynakowalak.com/</link>
     <description>Recent content on Katarzyna Kowalak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://omelka.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.katarzynakowalak.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://omelka.github.io/work/proj-1/</link>
+      <link>http://www.katarzynakowalak.com/work/proj-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://omelka.github.io/work/proj-1/</guid>
+      <guid>http://www.katarzynakowalak.com/work/proj-1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-1/img1.jpg&#34; alt=&#34;Spiffy Style Branding&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Spiffy Style is a wedding stationery shop providing unique, fully customized wedding crafts.&lt;/p&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title></title>
-      <link>http://omelka.github.io/work/proj-2/</link>
+      <link>http://www.katarzynakowalak.com/work/proj-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://omelka.github.io/work/proj-2/</guid>
+      <guid>http://www.katarzynakowalak.com/work/proj-2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-2/img1.jpg&#34; alt=&#34;Kriffo Branding&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kriffo is a Polish startup dedicated to exclusive hand made products, especially leather goods.&lt;/p&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title></title>
-      <link>http://omelka.github.io/work/proj-3/</link>
+      <link>http://www.katarzynakowalak.com/work/proj-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://omelka.github.io/work/proj-3/</guid>
+      <guid>http://www.katarzynakowalak.com/work/proj-3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-3/img1.jpg&#34; alt=&#34;Eko Brochure Design Branding&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I was asked to prepare a brochure cover for a Polish supermarket chain. The brochure was a part of marketing campaign dedicated to coffee products sale.&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title></title>
-      <link>http://omelka.github.io/work/proj-4/</link>
+      <link>http://www.katarzynakowalak.com/work/proj-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://omelka.github.io/work/proj-4/</guid>
+      <guid>http://www.katarzynakowalak.com/work/proj-4/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-4/img1.jpg&#34; alt=&#34;Poster Design&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Poster for a grungy style music event. Spare-time project.&lt;/p&gt;
